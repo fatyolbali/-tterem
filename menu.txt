@@ -1,0 +1,6 @@
+Fagyi;400
+Pizza;700
+Hamburger;500
+Hotdog;1800
+Kebab;800
+Limonade;800

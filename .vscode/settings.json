@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "debugmalloc.h": "c",
+        "stdlib.h": "c",
+        "menu.h": "c",
+        "cstdlib": "c",
+        "asztal.h": "c",
+        "string.h": "c"
+    }
+}
