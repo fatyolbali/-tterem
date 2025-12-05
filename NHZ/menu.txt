@@ -1,0 +1,4 @@
+Viz;300
+Hamburger;2490
+Pizza;2190
+Gyros;890
